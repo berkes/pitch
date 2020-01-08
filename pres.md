@@ -36,7 +36,11 @@ invited you to join LinkedIn” emails aan al zijn vrienden gestuurd?
 
 :::
 
-# Oplossing
+# Oplossing: Inleiding
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.social/videos/embed/d9bd2ee9-b7a4-44e3-8d65-61badd15c6e6?subtitle=en&warningTitle=0" frameborder="0" allowfullscreen></iframe>
+
+# Oplossing: Concreet
 
 * Sociaal netwerk met zwaartepunt op **cooperatie** en onderlinge **relaties**.
 * **Gedecentraliseerd: Federated, zelf-gehost**: Ieder netwerk een "server". Gebruikers hebben interactie met elkaar over servers heen.
