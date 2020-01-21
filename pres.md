@@ -88,11 +88,10 @@ Linkedin past nooit precies bij alle demografiën.
 * Je profiel wordt een "resumé": Opleiding, Ervaring, Kennis etc.
 * Je kan mensen "volgen" (social feed).
 * Je kunt daarnaast relaties naar anderen bijhouden: *"John worked with Anne from Jan to Oct for project X"*
-* Je kunt personen taggen, notitties bijhouden en deze eventueel delen
+* Je kunt personen taggen, notities bijhouden en deze eventueel delen
     met je sociale netwerk
 
-
-# Concept
+# Daarna richting:
 
 ![](./sketch-overview.png)
 
