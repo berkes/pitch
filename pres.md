@@ -11,84 +11,127 @@ keywords:
 lang: nl
 ---
 
-# Pysalia {data-background-image="physalia.jpg"}
+# You are the product
 
-> Het Portugees oorlogsschip (wetenschappelijke naam: Physalia physalis)
-> is een complexe kolonie van honderden poliepen van vier typen.
-
-# Inhoud
-
-* Probleem
-* Vergezicht
-* Eerste Halte
-
-# Probleem
-
-* Linkedin heeft andere doelstellingen dan haar gebruikers: **gebruikers zijn het product**.
-* Privacy en eigenaarschap van data op centrale netwerken als LinkedIn zijn tegenstrijdigheden.
-* Linkedin past nooit precies bij iedereen.
-* Linkedin kan **niet intern ingezet** worden in organisaties of netwerken.
+![](./home-module1-recruiter-dsk-2x.png.original.png)
 
 ::: notes
-
-Wie hier heeft ooit "per ongeluk" van die irritante “Bèr Kessels has
-invited you to join LinkedIn” emails aan al zijn vrienden gestuurd?
-
+ Linkedin heeft andere doelstellingen dan haar gebruikers: **gebruikers zijn het product**.
 :::
+
+# You are locked in
+
+![](linkedin-export.png)
+
+:::notes
+**Privacy en eigenaarschap van data** op centrale netwerken als LinkedIn, zijn tegenstrijdigheden.
+:::
+
+# One-size-fits-all (Cultural imperialism)
+
+![](policies.png)
+
+:::notes
+Linkedin past nooit precies bij alle demografiën.
+:::
+
+# Verder
+
+* Linkedin kan **niet intern ingezet** worden in organisaties of netwerken.
+* Linkedin is **onhandig als CRM**.
 
 # Oplossing: Inleiding
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.social/videos/embed/d9bd2ee9-b7a4-44e3-8d65-61badd15c6e6?subtitle=en&warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
+:::notes
+* 00:00 - 3:34 - intro.
+
+
 # Oplossing: Concreet
 
-* Sociaal netwerk met zwaartepunt op **cooperatie** en onderlinge **relaties**.
-* **Gedecentraliseerd: Federated, zelf-gehost**: Ieder netwerk een "server". Gebruikers hebben interactie met elkaar over servers heen.
+* Zakelijk Sociaal netwerk met zwaartepunt op **cooperatie** en onderlinge **relaties**.
+* **Gedecentraliseerd: Federated, zelf-gehost**: Ieder netwerk een "server". 
+* Gebruikers hebben interactie met elkaar over servers heen.
 
 # Voordelen
 
-* Ad-free
-* Privacy-focused
-* In-house inzetbaar
-* Chronologisch: simpel, geen algorithmes.
+* Ad-free.
+* Privacy-focused.
+* In-house inzetbaar.
+* Voorspelbaar en simpel: geen algorithmes.
+* Jou gegevens en attributen kunnen per netwerk verschillen.
 
 # Vergezicht
 
-* A **Business-oriented** social network, focused on **privacy** and **cooperation** with peers.
-* Run your own, customized or standardized, **social in-house network**.
-* You **own your profile**: you can interact across and between social networks. Or migrate to other networks as your career evolves.
+* Een **Business-oriented** sociaal netwerk, met focus op **privacy** en **cooperatie**.
+* Elke deelnemer kan het als **zijn eigen CRM** inzetten.
+* Draai je eigen **intern sociaal network**.
+* Jij bent de **eigenaar van je professioneel profiel**.
+* Jij presenteert delen van jou professioneel profiel op allerlei diverse netwerken.
+
+# Doelgroepen
+
+* Mensen in de fediverse: privacy minded, bekend met decentralisatie.
+* Deelnemers aan ZZP-, flexwerk- of ander zakelijke netwerken.
+* Faciliteerders van zulke netwerken.
+
+# Pysalia {data-background-image="physalia.jpg"}
+
+> Het Portugees oorlogsschip (wetenschappelijke naam: Physalia physalis)
+> is een complexe kolonie van honderden poliepen van vier typen.
 
 # Eerste Halte
 
-* A business-oriented mastodon fork. Aimed at maintaining a **resume**, and sharing that with your network.
-* A special feature to maintain meaningful relations: not just **follow** or **connect**. But tagged and described relations: *"John worked with Anne from Jan to Oct for project X"*.
-* A special feature to organize your relations: tagging, notes: both *private* and *publicly shared with your social network*.
+* Een fork van mastodon met een andere interface. Focus op 'deelnemers' en profiel. Social feed blijft bestaan.
+* Je profiel bevat contactgegevens.
+* Je profiel wordt een "resumé": Opleiding, Ervaring, Kennis etc.
+* Je kan mensen "volgen" (social feed).
+* Je kunt daarnaast relaties naar anderen bijhouden: *"John worked with Anne from Jan to Oct for project X"*
+* Je kunt personen taggen, notitties bijhouden en deze eventueel delen
+    met je sociale netwerk
 
-# Screenshots
 
-![](markd_110867_full.png.jpeg)
+# Concept
 
----
-
-![](markd_497788_full.png.jpeg)
-
----
-
-![](markd_646683_full.png.jpeg)
+![](./sketch-overview.png)
 
 ---
 
-![](markd_790518_full.png.jpeg)
+![sketch-home-profile.png](./sketch-home-profile.png)
 
 ---
 
-![](mastodon_edit_profile.png)
+![sketch-edit profile.png](./sketch-edit profile.png)
 
 ---
 
-![](mastodo_view_profile.jpg)
+![sketch-contacts.png](./sketch-contacts.png)
 
 ---
 
-![](sumry_610455_full.jpg){ width=50% }
+![sketch-timeline-feed.png](./sketch-timeline-feed.png)
 
+---
+
+![sketch-add note.png](./sketch-add note.png)
+
+---
+
+![sketch-add  relation.png](./sketch-add relation.png)
+
+---
+
+![sketch-add tags.png](./sketch-add tags.png)
+
+# Business Model
+
+* Hosting voor organisaties (€5 - €20/maand/instance)
+* Maatwerk voor organisaties (€x/uur + hosting + €x/maand support)
+
+# Groeiplan
+
+* Open Source - Selfhosted: gratis
+* Open Instance - flagship: gratis
+* Hiermee: Advocates en Fediverse aan boord krijgen.
+* Verkopen aan organisaties
