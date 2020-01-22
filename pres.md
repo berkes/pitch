@@ -87,11 +87,10 @@ Linkedin past nooit precies bij alle demografiën.
 * Je profiel bevat contactgegevens.
 * Je profiel wordt een "resumé": Opleiding, Ervaring, Kennis etc.
 * Je kan mensen "volgen" (social feed).
-* Je kunt daarnaast relaties naar anderen bijhouden: *"John worked with Anne from Jan to Oct for project X"*
-* Je kunt personen taggen, notities bijhouden en deze eventueel delen
-    met je sociale netwerk
+* Je kunt relaties naar anderen bijhouden: *"John worked with Anne from Jan to Oct for project X"*
+* Je kunt personen taggen, en notities bijhouden op personen.
 
-# Daarna richting:
+# Daarna richting (eindstation?):
 
 ![](./sketch-overview.png)
 
@@ -134,3 +133,21 @@ Linkedin past nooit precies bij alle demografiën.
 * Open Instance - flagship: gratis
 * Hiermee: Advocates en Fediverse aan boord krijgen.
 * Verkopen aan organisaties
+
+# Terminologie uitgelegd:
+
+* Zichtbaarheid
+* Compontenten
+* Relaties
+
+---
+
+![terminologie-1](./terminologie-1.jpg)
+
+---
+
+![terminologie-2](./terminologie-2.jpg)
+
+---
+
+![terminologie-3](./terminologie-3.jpg)
